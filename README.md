@@ -39,11 +39,13 @@
 
 ![Google OAuth Demo](screenshots/Google-Oauth.png)
 
-**Secrets Submission**
+**Secrets Page**
 
-![Submit Secret Demo](screenshots/submit-secret.png)
+![Secrets Page Demo](screenshots/secrets.png)
 
-## Getting Started
+**Submit Page**
+
+![Submit Page Demo](screenshots/submit.png)
 
 ### Prerequisites
 
